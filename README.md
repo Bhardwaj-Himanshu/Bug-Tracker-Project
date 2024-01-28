@@ -1,11 +1,4 @@
-# CRM
-A customer relation management system, made using MERN stack!
+# Bug Tracker Project
+A Bug Tracking and Management system made using MERN Stack!
 
 
-## Note of Things Needed
--[] Admin Login
--[] User Login
--[] Admin DashBoard
--[] Create Users
--[] User DashBoard
--[] Raise Ticket
